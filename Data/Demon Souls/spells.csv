@@ -1,36 +1,35 @@
-SPELLS:,,,,
-NAME:,DLC:,COVENANT:,DIFFICULTY:,LOCATION:
-Acid Cloud,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Acid+Cloud
-Cloak,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Cloak
-Cure Weapon,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Curse+Weapon
-Death Cloud,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Death+Cloud
-Enchant Weapon,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Enchant+Weapon
-Familiar's Prank,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Familiar's+Prank
-Fireball,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Fireball
-Fire Spray,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Fire+Spray
-Firestorm,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Firestorm
-Flame Toss,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Flame+Toss
-"Homing, Soul Arrow",FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Homing+Soul+Arrow
-Ignite,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Ignite
-Light Weapon,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Light+Weapon
-Poison Cloud,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Poison+Cloud
-Protection,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Protection
-Relief,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Relief
-Soul Arrow,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Soul+Arrow
-Soul Ray,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Soul+Ray
-Soulsucker,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Soulsucker
-Soul Thirst,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Soul+Thirst
-Wardning,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Warding
-Water Veil,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Water+Veil
-Antidote,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Antidote
-Anit-magic Field,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Anti-Magic+Field
-Banish,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Banish
-Cure Weapon,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Cure
-Evacuate,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Evacuate
-God's Wrath,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/God's+Wrath
-Heal,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Heal
-Hidden Soul,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Hidden+Soul
-Recovery,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Recovery
-Regeneration,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Regeneration
-Resurrection,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Resurrection
-Second Chance,FALSE,FALSE,1,https://demonssouls.wiki.fextralife.com/Second+Chance
+NAME:,DLC:,COVENANT:,DIFFICULTY:
+Acid Cloud,FALSE,FALSE,1
+Cloak,FALSE,FALSE,1
+Cure Weapon,FALSE,FALSE,1
+Death Cloud,FALSE,FALSE,1
+Enchant Weapon,FALSE,FALSE,1
+Familiar's Prank,FALSE,FALSE,1
+Fireball,FALSE,FALSE,1
+Fire Spray,FALSE,FALSE,1
+Firestorm,FALSE,FALSE,1
+Flame Toss,FALSE,FALSE,1
+"Homing, Soul Arrow",FALSE,FALSE,1
+Ignite,FALSE,FALSE,1
+Light Weapon,FALSE,FALSE,1
+Poison Cloud,FALSE,FALSE,1
+Protection,FALSE,FALSE,1
+Relief,FALSE,FALSE,1
+Soul Arrow,FALSE,FALSE,1
+Soul Ray,FALSE,FALSE,1
+Soulsucker,FALSE,FALSE,1
+Soul Thirst,FALSE,FALSE,1
+Wardning,FALSE,FALSE,1
+Water Veil,FALSE,FALSE,1
+Antidote,FALSE,FALSE,1
+Anit-magic Field,FALSE,FALSE,1
+Banish,FALSE,FALSE,1
+Cure Weapon,FALSE,FALSE,1
+Evacuate,FALSE,FALSE,1
+God's Wrath,FALSE,FALSE,1
+Heal,FALSE,FALSE,1
+Hidden Soul,FALSE,FALSE,1
+Recovery,FALSE,FALSE,1
+Regeneration,FALSE,FALSE,1
+Resurrection,FALSE,FALSE,1
+Second Chance,FALSE,FALSE,1
