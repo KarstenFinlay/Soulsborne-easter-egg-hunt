@@ -1,88 +1,88 @@
-NAME,DLC,COVENANT,DIFFICULTY
-Radial Tempering Blood Gemstone,FALSE,FALSE,1
-Radial Cursed Tempering Blood Gemstone,FALSE,FALSE,1
-Radial Tempering Damp Blood Gem,FALSE,FALSE,1
-Radial Cursed Tempering Damp Blood Gem,FALSE,FALSE,1
-Radial Adept Blood Gemstone,FALSE,FALSE,1
-Radial Cursed Adept Blood Gemstone,FALSE,FALSE,1
-Radial Adept Damp Blood Gem,FALSE,FALSE,1
-Radial Cursed Adept Damp Blood Gem,FALSE,FALSE,1
-Radial Fire Blood Gemstone,FALSE,FALSE,1
-Radial Cursed Fire Blood Gemstone,FALSE,FALSE,1
-Radial Cursed Fire Damp Blood Gem,FALSE,FALSE,1
-Radial Nourishing Damp Blood Gem,FALSE,FALSE,1
-Radial Cursed Nourishing Damp Blood Gem,FALSE,FALSE,1
-Radial Odd Tempering Blood Gemstone,FALSE,FALSE,1
-Radial Odd Tempering Damp Blood Gemstone,FALSE,FALSE,1
-Radial Cursed Odd Tempering Damp Blood Gem,FALSE,FALSE,1
-Radial Heavy Blood Gemstone,FALSE,FALSE,1
-Radial Cursed Heavy Abyssal Blood Gem,FALSE,FALSE,1
-Radial Sharp Blood Gemstone,FALSE,FALSE,1
-Radial Cursed Sharp Damp Blood Gem,FALSE,FALSE,1
-Radial Cold Blood Gemstone,FALSE,FALSE,1
-Radial Murky Blood Gemstone,FALSE,FALSE,1
-Radial Dirty Blood Gemstone,FALSE,FALSE,1
-Radial Dirty Damp Blood Gemstone,FALSE,FALSE,1
-Radial Beasthunter's Damp Blood Gem,FALSE,FALSE,1
-Radial Kinhunter's Damp Blood Gem,FALSE,FALSE,1
-Radial Striking Blood Gemstone,FALSE,FALSE,1
-Radial Striking Damp Blood Gem,FALSE,FALSE,1
-Radial Cursed Striking Blood Gemstone,FALSE,FALSE,1
-Radial Radiant Blood Gemstone,FALSE,FALSE,1
-Radial Cursed Radiant Damp Blood Gem,FALSE,FALSE,1
-Radial Fool's Blood Gemstone,FALSE,FALSE,1
-Radial Gold Blood Gem,FALSE,FALSE,1
-Triangular Adept Blood Gemstone,FALSE,FALSE,1
-Triangular Adept Damp Gemstone,FALSE,FALSE,1
-Triangular Bolt Blood Gemstone,FALSE,FALSE,1
-Triangular Cursed Fire Blood Gemstone,FALSE,FALSE,1
-Triangular Cursed Murky Blood Gemstone,FALSE,FALSE,1
-Triangular Cursed Tempering Blood Gemstone,FALSE,FALSE,1
-Triangular Cursed Tempering Damp Blood Gem,FALSE,FALSE,1
-Triangular Dirty Blood Gemstone,FALSE,FALSE,1
-Triangular Fool's Blood Gemstone,FALSE,FALSE,1
-Triangular Heavy Blood Gemstone,FALSE,FALSE,1
-Triangular Murky Damp Blood Gem,FALSE,FALSE,1
-Triangular Odd Arcane Damp Blood Gem,FALSE,FALSE,1
-Triangular Sharp Blood Gemstone,FALSE,FALSE,1
-Triangular Sharp Damp Blood Gem,FALSE,FALSE,1
-Triangular Tempering Blood Gemstone,FALSE,FALSE,1
-Triangular Tempering Damp Gemstone,FALSE,FALSE,1
-Triangular Radiant Blood Gemstone,FALSE,FALSE,1
-Triangular Cursed Poorman's Blood Gemstone,FALSE,FALSE,1
-Triangular Arcane Blood Gemstone,FALSE,FALSE,1
-Triangular Cold Blood Gemstone,FALSE,FALSE,1
-Triangular Murky Blood Gemstone,FALSE,FALSE,1
-Triangular Nourishing Blood Gemstone,FALSE,FALSE,1
-Triangular Arcane Abyssal Blood Gem,FALSE,FALSE,1
-Triangular Fire Blood Gemstone,FALSE,FALSE,1
-Triangular Odd Fire Blood Gemstone,FALSE,FALSE,1
-Waning Tempering Blood Gemstone,FALSE,FALSE,1
-Waning Adept Blood Gemstone,FALSE,FALSE,1
-Waning Fire Blood Gemstone,FALSE,FALSE,1
-Waning Bolt Blood Gemstone,FALSE,FALSE,1
-Waning Nourishing Blood Gemstone,FALSE,FALSE,1
-Waning Odd Bloodtinge Blood Gemstone,FALSE,FALSE,1
-Waning Odd Fire Blood Gemstone,FALSE,FALSE,1
-Waning Odd Bolt Blood Gemstone,FALSE,FALSE,1
-Waning Heavy Blood Gemstone,FALSE,FALSE,1
-Waning Sharp Blood Gemstone,FALSE,FALSE,1
-Waning Cold Blood Gemstone,FALSE,FALSE,1
-Waning Murky Blood Gemstone,FALSE,FALSE,1
-Waning Dirty Blood Gemstone,FALSE,FALSE,1
-Waning Beasthunter's Blood Gemstone,FALSE,FALSE,1
-Waning Kinhunter's Blood Gemstone,FALSE,FALSE,1
-Waning Radiant Blood Gemstone,FALSE,FALSE,1
-Waning Pulsing Blood Gemstone,FALSE,FALSE,1
-Waning Fool's Blood Gemstone,FALSE,FALSE,1
-Waning Poorman's Blood Gemstone,FALSE,FALSE,1
-Circle Bloodtinge Gemstone,FALSE,FALSE,1
-Circle Odd Bloodtinge Gemstone,FALSE,FALSE,1
-Circle Warm Blood Gemstone,FALSE,FALSE,1
-Circle Pulsing Blood Gem,FALSE,FALSE,1
-Droplet Arcane Damp Blood Gem,FALSE,FALSE,1
-Droplet Cursed Striking Blood Gemstone,FALSE,FALSE,1
-Droplet Cursed Tempering Damp Blood Gem,FALSE,FALSE,1
-Droplet Heavy Blood Gemstone,FALSE,FALSE,1
-Droplet Tear Blood Gem,FALSE,FALSE,1
-Droplet Warm Blood Gemstone,FALSE,FALSE,1
+NAME,DLC,COVENANT
+Radial Tempering Blood Gemstone,FALSE,FALSE
+Radial Cursed Tempering Blood Gemstone,FALSE,FALSE
+Radial Tempering Damp Blood Gem,FALSE,FALSE
+Radial Cursed Tempering Damp Blood Gem,FALSE,FALSE
+Radial Adept Blood Gemstone,FALSE,FALSE
+Radial Cursed Adept Blood Gemstone,FALSE,FALSE
+Radial Adept Damp Blood Gem,FALSE,FALSE
+Radial Cursed Adept Damp Blood Gem,FALSE,FALSE
+Radial Fire Blood Gemstone,FALSE,FALSE
+Radial Cursed Fire Blood Gemstone,FALSE,FALSE
+Radial Cursed Fire Damp Blood Gem,FALSE,FALSE
+Radial Nourishing Damp Blood Gem,FALSE,FALSE
+Radial Cursed Nourishing Damp Blood Gem,FALSE,FALSE
+Radial Odd Tempering Blood Gemstone,FALSE,FALSE
+Radial Odd Tempering Damp Blood Gemstone,FALSE,FALSE
+Radial Cursed Odd Tempering Damp Blood Gem,FALSE,FALSE
+Radial Heavy Blood Gemstone,FALSE,FALSE
+Radial Cursed Heavy Abyssal Blood Gem,FALSE,FALSE
+Radial Sharp Blood Gemstone,FALSE,FALSE
+Radial Cursed Sharp Damp Blood Gem,FALSE,FALSE
+Radial Cold Blood Gemstone,FALSE,FALSE
+Radial Murky Blood Gemstone,FALSE,FALSE
+Radial Dirty Blood Gemstone,FALSE,FALSE
+Radial Dirty Damp Blood Gemstone,FALSE,FALSE
+Radial Beasthunter's Damp Blood Gem,FALSE,FALSE
+Radial Kinhunter's Damp Blood Gem,FALSE,FALSE
+Radial Striking Blood Gemstone,FALSE,FALSE
+Radial Striking Damp Blood Gem,FALSE,FALSE
+Radial Cursed Striking Blood Gemstone,FALSE,FALSE
+Radial Radiant Blood Gemstone,FALSE,FALSE
+Radial Cursed Radiant Damp Blood Gem,FALSE,FALSE
+Radial Fool's Blood Gemstone,FALSE,FALSE
+Radial Gold Blood Gem,FALSE,FALSE
+Triangular Adept Blood Gemstone,FALSE,FALSE
+Triangular Adept Damp Gemstone,FALSE,FALSE
+Triangular Bolt Blood Gemstone,FALSE,FALSE
+Triangular Cursed Fire Blood Gemstone,FALSE,FALSE
+Triangular Cursed Murky Blood Gemstone,FALSE,FALSE
+Triangular Cursed Tempering Blood Gemstone,FALSE,FALSE
+Triangular Cursed Tempering Damp Blood Gem,FALSE,FALSE
+Triangular Dirty Blood Gemstone,FALSE,FALSE
+Triangular Fool's Blood Gemstone,FALSE,FALSE
+Triangular Heavy Blood Gemstone,FALSE,FALSE
+Triangular Murky Damp Blood Gem,FALSE,FALSE
+Triangular Odd Arcane Damp Blood Gem,FALSE,FALSE
+Triangular Sharp Blood Gemstone,FALSE,FALSE
+Triangular Sharp Damp Blood Gem,FALSE,FALSE
+Triangular Tempering Blood Gemstone,FALSE,FALSE
+Triangular Tempering Damp Gemstone,FALSE,FALSE
+Triangular Radiant Blood Gemstone,FALSE,FALSE
+Triangular Cursed Poorman's Blood Gemstone,FALSE,FALSE
+Triangular Arcane Blood Gemstone,FALSE,FALSE
+Triangular Cold Blood Gemstone,FALSE,FALSE
+Triangular Murky Blood Gemstone,FALSE,FALSE
+Triangular Nourishing Blood Gemstone,FALSE,FALSE
+Triangular Arcane Abyssal Blood Gem,FALSE,FALSE
+Triangular Fire Blood Gemstone,FALSE,FALSE
+Triangular Odd Fire Blood Gemstone,FALSE,FALSE
+Waning Tempering Blood Gemstone,FALSE,FALSE
+Waning Adept Blood Gemstone,FALSE,FALSE
+Waning Fire Blood Gemstone,FALSE,FALSE
+Waning Bolt Blood Gemstone,FALSE,FALSE
+Waning Nourishing Blood Gemstone,FALSE,FALSE
+Waning Odd Bloodtinge Blood Gemstone,FALSE,FALSE
+Waning Odd Fire Blood Gemstone,FALSE,FALSE
+Waning Odd Bolt Blood Gemstone,FALSE,FALSE
+Waning Heavy Blood Gemstone,FALSE,FALSE
+Waning Sharp Blood Gemstone,FALSE,FALSE
+Waning Cold Blood Gemstone,FALSE,FALSE
+Waning Murky Blood Gemstone,FALSE,FALSE
+Waning Dirty Blood Gemstone,FALSE,FALSE
+Waning Beasthunter's Blood Gemstone,FALSE,FALSE
+Waning Kinhunter's Blood Gemstone,FALSE,FALSE
+Waning Radiant Blood Gemstone,FALSE,FALSE
+Waning Pulsing Blood Gemstone,FALSE,FALSE
+Waning Fool's Blood Gemstone,FALSE,FALSE
+Waning Poorman's Blood Gemstone,FALSE,FALSE
+Circle Bloodtinge Gemstone,FALSE,FALSE
+Circle Odd Bloodtinge Gemstone,FALSE,FALSE
+Circle Warm Blood Gemstone,FALSE,FALSE
+Circle Pulsing Blood Gem,FALSE,FALSE
+Droplet Arcane Damp Blood Gem,FALSE,FALSE
+Droplet Cursed Striking Blood Gemstone,FALSE,FALSE
+Droplet Cursed Tempering Damp Blood Gem,FALSE,FALSE
+Droplet Heavy Blood Gemstone,FALSE,FALSE
+Droplet Tear Blood Gem,FALSE,FALSE
+Droplet Warm Blood Gemstone,FALSE,FALSE

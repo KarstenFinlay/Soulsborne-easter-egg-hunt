@@ -1,13 +1,13 @@
-NAME,DLC,COVENANT,DIFFICULTY
-Accursed Brew,TRUE,FALSE,1
-Beast Roar,FALSE,FALSE,1
-Blacksky Eye,TRUE,FALSE,1
-Empty Phantasm Shell,FALSE,FALSE,1
-Executioner's Gloves,FALSE,FALSE,1
-Old Hunter Bone,FALSE,FALSE,1
-Tiny Tonitrus,FALSE,FALSE,1
-Choir Bell,FALSE,FALSE,1
-Augur of Ebrietas,FALSE,FALSE,1
-Madras Whistle,FALSE,FALSE,1
-Messenger's Gift,FALSE,FALSE,1
-A Call Beyond,FALSE,FALSE,1
+NAME,DLC,COVENANT
+Accursed Brew,TRUE,FALSE
+Beast Roar,FALSE,FALSE
+Blacksky Eye,TRUE,FALSE
+Empty Phantasm Shell,FALSE,FALSE
+Executioner's Gloves,FALSE,FALSE
+Old Hunter Bone,FALSE,FALSE
+Tiny Tonitrus,FALSE,FALSE
+Choir Bell,FALSE,FALSE
+Augur of Ebrietas,FALSE,FALSE
+Madras Whistle,FALSE,FALSE
+Messenger's Gift,FALSE,FALSE
+A Call Beyond,FALSE,FALSE

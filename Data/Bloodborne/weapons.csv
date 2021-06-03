@@ -1,43 +1,43 @@
-NAME,DLC,COVENANT,DIFFICULTY
-Amygdalan Arm,TRUE,FALSE,1
-Beast Claw,FALSE,FALSE,1
-Beasthunter Saif,TRUE,FALSE,1
-Beast Cutter,TRUE,FALSE,1
-Blade of Mercy,FALSE,FALSE,1
-Bloodletter,TRUE,FALSE,1
-Boom Hammer,TRUE,FALSE,1
-Burial Blade,FALSE,FALSE,1
-Chikage,FALSE,FALSE,1
-Church Pick,TRUE,FALSE,1
-Holy Moonlight Sword,TRUE,FALSE,1
-Hunter Axe,FALSE,FALSE,1
-Kirkhammer,FALSE,FALSE,1
-Kos Parasite,TRUE,FALSE,1
-Logarius' Wheel,FALSE,FALSE,1
-Ludwig's Holy Blade,FALSE,FALSE,1
-Rakuyo,TRUE,FALSE,1
-Reiterpallasch,FALSE,FALSE,1
-Rifle Spear,FALSE,FALSE,1
-Saw Cleaver,FALSE,FALSE,1
-Saw Spear,FALSE,FALSE,1
-Simon's Bowblade,TRUE,FALSE,1
-Stake Driver,FALSE,FALSE,1
-Threaded Cane,FALSE,FALSE,1
-Tonitrus,FALSE,FALSE,1
-Whirligig Saw,TRUE,FALSE,1
-Cannon,FALSE,FALSE,1
-Church Cannon,TRUE,FALSE,1
-Evelyn,FALSE,FALSE,1
-Fist of Gratia,TRUE,FALSE,1
-Flamesprayer,FALSE,FALSE,1
-Gatling Gun,TRUE,FALSE,1
-Hunger Blunderbuss,FALSE,FALSE,1
-Hunter Pistol,FALSE,FALSE,1
-Hunter's Torch,FALSE,FALSE,1
-Loch Shield,TRUE,FALSE,1
-Ludwig's Rifle,FALSE,FALSE,1
-Piercing Rifle,TRUE,FALSE,1
-Repeating Pistol,FALSE,FALSE,1
-Rosmarinus,FALSE,FALSE,1
-Torch,FALSE,FALSE,1
-Wooden Shield,FALSE,FALSE,1
+NAME,DLC,COVENANT
+Amygdalan Arm,TRUE,FALSE
+Beast Claw,FALSE,FALSE
+Beasthunter Saif,TRUE,FALSE
+Beast Cutter,TRUE,FALSE
+Blade of Mercy,FALSE,FALSE
+Bloodletter,TRUE,FALSE
+Boom Hammer,TRUE,FALSE
+Burial Blade,FALSE,FALSE
+Chikage,FALSE,FALSE
+Church Pick,TRUE,FALSE
+Holy Moonlight Sword,TRUE,FALSE
+Hunter Axe,FALSE,FALSE
+Kirkhammer,FALSE,FALSE
+Kos Parasite,TRUE,FALSE
+Logarius' Wheel,FALSE,FALSE
+Ludwig's Holy Blade,FALSE,FALSE
+Rakuyo,TRUE,FALSE
+Reiterpallasch,FALSE,FALSE
+Rifle Spear,FALSE,FALSE
+Saw Cleaver,FALSE,FALSE
+Saw Spear,FALSE,FALSE
+Simon's Bowblade,TRUE,FALSE
+Stake Driver,FALSE,FALSE
+Threaded Cane,FALSE,FALSE
+Tonitrus,FALSE,FALSE
+Whirligig Saw,TRUE,FALSE
+Cannon,FALSE,FALSE
+Church Cannon,TRUE,FALSE
+Evelyn,FALSE,FALSE
+Fist of Gratia,TRUE,FALSE
+Flamesprayer,FALSE,FALSE
+Gatling Gun,TRUE,FALSE
+Hunger Blunderbuss,FALSE,FALSE
+Hunter Pistol,FALSE,FALSE
+Hunter's Torch,FALSE,FALSE
+Loch Shield,TRUE,FALSE
+Ludwig's Rifle,FALSE,FALSE
+Piercing Rifle,TRUE,FALSE
+Repeating Pistol,FALSE,FALSE
+Rosmarinus,FALSE,FALSE
+Torch,FALSE,FALSE
+Wooden Shield,FALSE,FALSE

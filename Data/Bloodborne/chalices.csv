@@ -1,27 +1,27 @@
-NAME,DLC,COVENANT,DIFFICULTY
-Pthumeru Chalice,FALSE,FALSE,1
-Pthumeru Root Chalice,FALSE,FALSE,1
-Central Pthumeru Chalice,FALSE,FALSE,1
-Central Pthumeru Root Chalice,FALSE,FALSE,1
-Lower Pthumeru Chalice,FALSE,FALSE,1
-Lower Pthumeru Root Chalice,FALSE,FALSE,1
-Sinister Lower Pthumeru Root Chalice,FALSE,FALSE,1
-Defiled Chalice,FALSE,FALSE,1
-Cursed and Defiled Root Chalice,FALSE,FALSE,1
-Great Pthumeru Ihyll Chalice,FALSE,FALSE,1
-Pthumeru Ihyll Root Chalice,FALSE,FALSE,1
-Sinister Pthumeru Ihyll Root Chalice,FALSE,FALSE,1
-Hintertomb Chalice,FALSE,FALSE,1
-Hintertomb Root Chalice,FALSE,FALSE,1
-Lower Hintertomb Chalice,FALSE,FALSE,1
-Lower Hintertomb Root Chalice,FALSE,FALSE,1
-Sinister Hintertomb Root Chalice,FALSE,FALSE,1
-Ailing Loran Chalice,FALSE,FALSE,1
-Ailing Loran Root Chalice,FALSE,FALSE,1
-Lower Loran Chalice,FALSE,FALSE,1
-Lower Ailing Loran Root Chalice,FALSE,FALSE,1
-Sinister Lower Loran Root Chalice,FALSE,FALSE,1
-Great Isz Chalice,FALSE,FALSE,1
-Isz Root Chalice,FALSE,FALSE,1
-Sinister Isz Root Chalice,FALSE,FALSE,1
-Short Ritual Root Chalice,FALSE,FALSE,1
+NAME,DLC,COVENANT
+Pthumeru Chalice,FALSE,FALSE
+Pthumeru Root Chalice,FALSE,FALSE
+Central Pthumeru Chalice,FALSE,FALSE
+Central Pthumeru Root Chalice,FALSE,FALSE
+Lower Pthumeru Chalice,FALSE,FALSE
+Lower Pthumeru Root Chalice,FALSE,FALSE
+Sinister Lower Pthumeru Root Chalice,FALSE,FALSE
+Defiled Chalice,FALSE,FALSE
+Cursed and Defiled Root Chalice,FALSE,FALSE
+Great Pthumeru Ihyll Chalice,FALSE,FALSE
+Pthumeru Ihyll Root Chalice,FALSE,FALSE
+Sinister Pthumeru Ihyll Root Chalice,FALSE,FALSE
+Hintertomb Chalice,FALSE,FALSE
+Hintertomb Root Chalice,FALSE,FALSE
+Lower Hintertomb Chalice,FALSE,FALSE
+Lower Hintertomb Root Chalice,FALSE,FALSE
+Sinister Hintertomb Root Chalice,FALSE,FALSE
+Ailing Loran Chalice,FALSE,FALSE
+Ailing Loran Root Chalice,FALSE,FALSE
+Lower Loran Chalice,FALSE,FALSE
+Lower Ailing Loran Root Chalice,FALSE,FALSE
+Sinister Lower Loran Root Chalice,FALSE,FALSE
+Great Isz Chalice,FALSE,FALSE
+Isz Root Chalice,FALSE,FALSE
+Sinister Isz Root Chalice,FALSE,FALSE
+Short Ritual Root Chalice,FALSE,FALSE
