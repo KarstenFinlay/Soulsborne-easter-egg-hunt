@@ -1,95 +1,95 @@
-NAME:,DLC:,COVENANT:,DIFFICULTY:
-Ancient King's Mask,FALSE,FALSE,1
-Assassin's Mask,FALSE,FALSE,1
-Binded Hood,FALSE,FALSE,3
-Brushwood Helm,FALSE,FALSE,3
-Mail Coif,FALSE,FALSE,1
-Dark Silver Helmet,FALSE,FALSE,2
-Dull Gold Helmet,FALSE,FALSE,3
-Iron Helmet,FALSE,FALSE,1
-Gloom Helm,FALSE,FALSE,2
-Gold Mask,FALSE,FALSE,1
-Leather Cap,FALSE,FALSE,1
-Mirdan Helmet,FALSE,FALSE,1
-Monk's Head Collar,FALSE,FALSE,3
-Official's Cap,FALSE,FALSE,1
-Plate Helmet,FALSE,FALSE,1
-Silver Coronet,FALSE,FALSE,1
-Three Cornered Hat,FALSE,FALSE,3
-Venerable Sage's Hood,FALSE,FALSE,2
-Imperial Spy Hood,FALSE,FALSE,1
-Fluted Helm,FALSE,FALSE,1
-Blue-Eye Knight Helm,FALSE,FALSE,2
-Penetrator's Helmet,FALSE,FALSE,5
-Ancient King's Breastplate,FALSE,FALSE,1
-Barbarian Clothes,FALSE,FALSE,1
-Binded Cross,FALSE,FALSE,3
-Black Leather Garb,FALSE,FALSE,1
-Brushwood Armor,FALSE,FALSE,3
-Chain Mail,FALSE,FALSE,1
-Coat of Plates,FALSE,FALSE,1
-Dark Silver Armor,FALSE,FALSE,2
-Dull Gold Armor,FALSE,FALSE,3
-Fluted Armor,FALSE,FALSE,1
-Gloom Armor,FALSE,FALSE,2
-Leather Armor,FALSE,FALSE,1
-Mirdan Scale Armor,FALSE,FALSE,1
-Old Raggedy Robes,FALSE,FALSE,1
-Rogue's Clothes,FALSE,FALSE,3
-Saint's Robes,FALSE,FALSE,1
-Shaman's Clothes,FALSE,FALSE,1
-Venerable Sage's Robe,FALSE,FALSE,2
-Wizard's Clothes,FALSE,FALSE,1
-Blue-Eye Knight Cuirass,FALSE,FALSE,1
-Burrower Armor,FALSE,FALSE,1
-Official's Clothes,FALSE,FALSE,1
-Imperial Spy Clothes,FALSE,FALSE,1
-Penetrator's Cuirass,FALSE,FALSE,5
-Ancient King's Gauntlets,FALSE,FALSE,1
-Barbarian Armbands,FALSE,FALSE,1
-Binded Gloves,FALSE,FALSE,3
-Black Gloves ,FALSE,FALSE,1
-Brushwood Gauntlets,FALSE,FALSE,3
-Chain Gloves,FALSE,FALSE,1
-Dark Silver Gauntlets,FALSE,FALSE,2
-Dull Gold Gauntlets,FALSE,FALSE,3
-Fluted Gauntlets,FALSE,FALSE,1
-Gloom Gauntlets,FALSE,FALSE,2
-Imperial Spy Gloves,FALSE,FALSE,1
-Leather Gloves,FALSE,FALSE,1
-Mirdan Gauntlets,FALSE,FALSE,1
-Old Raggedy Gloves,FALSE,FALSE,1
-Plate Gauntlets,FALSE,FALSE,1
-Rogues's Gloves,FALSE,FALSE,3
-Saint's Gloves,FALSE,FALSE,1
-Shaman's Armband,FALSE,FALSE,1
-Silver Bracelet,FALSE,FALSE,1
-Venerable Sage's Gloves,FALSE,FALSE,1
-Wizard's Gloves,FALSE,FALSE,1
-Official's Gloves,FALSE,FALSE,1
-Blue-Eye Knight Gauntlets,FALSE,FALSE,1
-Penetrator's Gauntlets,FALSE,FALSE,5
-Ancient King's Greaves,FALSE,FALSE,1
-Barbarian Leggings,FALSE,FALSE,1
-Binded Boots,FALSE,FALSE,3
-Black Boots,FALSE,FALSE,1
-Brushwood Leggings,FALSE,FALSE,3
-Dark Silver Greaves,FALSE,FALSE,2
-Dull Gold Leggings,FALSE,FALSE,3
-Fluted Greaves,FALSE,FALSE,1
-Gloom Greaves,FALSE,FALSE,2
-Hard Leather Boots,FALSE,FALSE,1
-Imperial Spy Leggings,FALSE,FALSE,1
-Leather Boots,FALSE,FALSE,1
-Mirdan Leggings,FALSE,FALSE,1
-Old Ragged Boots,FALSE,FALSE,1
-Plate Greaves,FALSE,FALSE,1
-Rogue's Boots,FALSE,FALSE,3
-Saint's Boots,FALSE,FALSE,1
-Shaman's Tabi,FALSE,FALSE,1
-Venerable Sage's Boots,FALSE,FALSE,3
-Wizard's Shoes,TRUE,FALSE,1
-Official's Leggings,FALSE,FALSE,1
-Burrowe Boots,FALSE,FALSE,1
-Blue-Eye Knight Greaves,FALSE,FALSE,1
-Penetrator's Greaves,FALSE,FALSE,5
+NAME:,DLC:,COVENANT:
+Ancient King's Mask,FALSE,FALSE
+Assassin's Mask,FALSE,FALSE
+Binded Hood,FALSE,FALSE
+Brushwood Helm,FALSE,FALSE
+Mail Coif,FALSE,FALSE
+Dark Silver Helmet,FALSE,FALSE
+Dull Gold Helmet,FALSE,FALSE
+Iron Helmet,FALSE,FALSE
+Gloom Helm,FALSE,FALSE
+Gold Mask,FALSE,FALSE
+Leather Cap,FALSE,FALSE
+Mirdan Helmet,FALSE,FALSE
+Monk's Head Collar,FALSE,FALSE
+Official's Cap,FALSE,FALSE
+Plate Helmet,FALSE,FALSE
+Silver Coronet,FALSE,FALSE
+Three Cornered Hat,FALSE,FALSE
+Venerable Sage's Hood,FALSE,FALSE
+Imperial Spy Hood,FALSE,FALSE
+Fluted Helm,FALSE,FALSE
+Blue-Eye Knight Helm,FALSE,FALSE
+Penetrator's Helmet,FALSE,FALSE
+Ancient King's Breastplate,FALSE,FALSE
+Barbarian Clothes,FALSE,FALSE
+Binded Cross,FALSE,FALSE
+Black Leather Garb,FALSE,FALSE
+Brushwood Armor,FALSE,FALSE
+Chain Mail,FALSE,FALSE
+Coat of Plates,FALSE,FALSE
+Dark Silver Armor,FALSE,FALSE
+Dull Gold Armor,FALSE,FALSE
+Fluted Armor,FALSE,FALSE
+Gloom Armor,FALSE,FALSE
+Leather Armor,FALSE,FALSE
+Mirdan Scale Armor,FALSE,FALSE
+Old Raggedy Robes,FALSE,FALSE
+Rogue's Clothes,FALSE,FALSE
+Saint's Robes,FALSE,FALSE
+Shaman's Clothes,FALSE,FALSE
+Venerable Sage's Robe,FALSE,FALSE
+Wizard's Clothes,FALSE,FALSE
+Blue-Eye Knight Cuirass,FALSE,FALSE
+Burrower Armor,FALSE,FALSE
+Official's Clothes,FALSE,FALSE
+Imperial Spy Clothes,FALSE,FALSE
+Penetrator's Cuirass,FALSE,FALSE
+Ancient King's Gauntlets,FALSE,FALSE
+Barbarian Armbands,FALSE,FALSE
+Binded Gloves,FALSE,FALSE
+Black Gloves ,FALSE,FALSE
+Brushwood Gauntlets,FALSE,FALSE
+Chain Gloves,FALSE,FALSE
+Dark Silver Gauntlets,FALSE,FALSE
+Dull Gold Gauntlets,FALSE,FALSE
+Fluted Gauntlets,FALSE,FALSE
+Gloom Gauntlets,FALSE,FALSE
+Imperial Spy Gloves,FALSE,FALSE
+Leather Gloves,FALSE,FALSE
+Mirdan Gauntlets,FALSE,FALSE
+Old Raggedy Gloves,FALSE,FALSE
+Plate Gauntlets,FALSE,FALSE
+Rogues's Gloves,FALSE,FALSE
+Saint's Gloves,FALSE,FALSE
+Shaman's Armband,FALSE,FALSE
+Silver Bracelet,FALSE,FALSE
+Venerable Sage's Gloves,FALSE,FALSE
+Wizard's Gloves,FALSE,FALSE
+Official's Gloves,FALSE,FALSE
+Blue-Eye Knight Gauntlets,FALSE,FALSE
+Penetrator's Gauntlets,FALSE,FALSE
+Ancient King's Greaves,FALSE,FALSE
+Barbarian Leggings,FALSE,FALSE
+Binded Boots,FALSE,FALSE
+Black Boots,FALSE,FALSE
+Brushwood Leggings,FALSE,FALSE
+Dark Silver Greaves,FALSE,FALSE
+Dull Gold Leggings,FALSE,FALSE
+Fluted Greaves,FALSE,FALSE
+Gloom Greaves,FALSE,FALSE
+Hard Leather Boots,FALSE,FALSE
+Imperial Spy Leggings,FALSE,FALSE
+Leather Boots,FALSE,FALSE
+Mirdan Leggings,FALSE,FALSE
+Old Ragged Boots,FALSE,FALSE
+Plate Greaves,FALSE,FALSE
+Rogue's Boots,FALSE,FALSE
+Saint's Boots,FALSE,FALSE
+Shaman's Tabi,FALSE,FALSE
+Venerable Sage's Boots,FALSE,FALSE
+Wizard's Shoes,TRUE,FALSE
+Official's Leggings,FALSE,FALSE
+Burrowe Boots,FALSE,FALSE
+Blue-Eye Knight Greaves,FALSE,FALSE
+Penetrator's Greaves,FALSE,FALSE

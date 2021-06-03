@@ -1,98 +1,96 @@
-NAME:,DLC:,COVENANT:,DIFFICULTY:
-Dagger,FALSE,FALSE,1
-Parrying Dagger,FALSE,FALSE,1
-Secret Dagger,FALSE,FALSE,1
-Baby's Nail,FALSE,FALSE,1
-Blueblood Sword,FALSE,FALSE,1
-Broad Sword,FALSE,FALSE,1
-Broken Sword,FALSE,FALSE,1
-Long Sword,FALSE,FALSE,1
-Knight Sword,FALSE,FALSE,1
-Kris Blade,FALSE,FALSE,1
-Penetrating Sword,FALSE,FALSE,1
-Rune Sword,FALSE,FALSE,1
-Short Sword,FALSE,FALSE,1
-Bastard Sword,FALSE,FALSE,1
-Claymore,FALSE,FALSE,1
-Demonbrandt,FALSE,FALSE,1
-Flamberge,FALSE,FALSE,1
-Large Sword of Moonlight,FALSE,FALSE,1
-Northen Regalia,FALSE,FALSE,1
-Morion Blade,FALSE,FALSE,1
-Soulbrandt,FALSE,FALSE,1
-Storm Ruler,FALSE,FALSE,1
-Dragon Bone Smasher,FALSE,FALSE,1
-Great Sword,FALSE,FALSE,1
-Blind,FALSE,FALSE,1
-Falchion,FALSE,FALSE,1
-Kilij,FALSE,FALSE,1
-Large Sword of Searching,FALSE,FALSE,1
-Scimitar,FALSE,FALSE,1
-Shotel,FALSE,FALSE,1
-Hiltless,FALSE,FALSE,1
-Maigc Sword Makoto,FALSE,FALSE,1
-Uchigatana,FALSE,FALSE,1
-Epee Rapier,FALSE,FALSE,1
-Estoc,FALSE,FALSE,1
-Geri's Stiletto,FALSE,FALSE,1
-Needle of Eternal Agony,FALSE,FALSE,1
-Mail Breaker,FALSE,FALSE,1
-Rapier,FALSE,FALSE,1
-Spiral Rapier,FALSE,FALSE,1
-Battle Axe,FALSE,FALSE,1
-Guilotine Axe,FALSE,FALSE,1
-Crescent Axe,FALSE,FALSE,1
-Dozer Axe,FALSE,FALSE,1
-Great Axe,FALSE,FALSE,1
-Ritual Blade,TRUE,FALSE,1
-Club,FALSE,FALSE,1
-Mace,FALSE,FALSE,1
-Morning Star,FALSE,FALSE,1
-Pickaxe,FALSE,FALSE,1
-War Pick,FALSE,FALSE,1
-Bramd,FALSE,FALSE,1
-Great Club,FALSE,FALSE,1
-Meat Cleaver,FALSE,FALSE,1
-Claws,FALSE,FALSE,1
-Hands of God,FALSE,FALSE,1
-Iron Knuckles ,FALSE,FALSE,1
-Istarelle,FALSE,FALSE,1
-Scraping Spear,FALSE,FALSE,1
-Short Spear,FALSE,FALSE,1
-Winged Spear,FALSE,FALSE,1
-Halberd,FALSE,FALSE,1
-Mirdan Hammer,FALSE,FALSE,1
-Phosphorescent Pole,FALSE,FALSE,1
-War Scythe,FALSE,FALSE,1
-Reaper Scythe,TRUE,FALSE,1
-Compound Long Bow,FALSE,FALSE,1
-Compound Short Bow,FALSE,FALSE,1
-Lava Bow,FALSE,FALSE,1
-Long Bow,FALSE,FALSE,1
-Short Bow,FALSE,FALSE,1
-White Bow,FALSE,FALSE,1
-Gargoyle Crossbow,FALSE,FALSE,1
-Heavy Crossbow,FALSE,FALSE,1
-Light Crossbow,FALSE,FALSE,1
-Insanity Catalyst,FALSE,FALSE,1
-Silver Catalyst,FALSE,FALSE,1
-Wooden Catalyst,FALSE,FALSE,1
-Talisman of Beats,FALSE,FALSE,1
-Talisman of God,FALSE,FALSE,1
-Buckler,FALSE,FALSE,1
-Leather Shield,FALSE,FALSE,1
-Rune Shield,FALSE,FALSE,1
-Dregling Shield,FALSE,FALSE,1
-Soldier's Shield,FALSE,FALSE,1
-Wooden Shield,FALSE,FALSE,1
-Dark Silver Shield,FALSE,FALSE,1
-Heater Shield,FALSE,FALSE,1
-Kite Shield,FALSE,FALSE,1
-Knight's Shield,FALSE,FALSE,1
-Spiked Shield,FALSE,FALSE,1
-Hoplite Shield,FALSE,FALSE,1
-Adjudicator's Shield,FALSE,FALSE,1
-Large Brushwood Shield,FALSE,FALSE,1
-Purple Flame Shield,FALSE,FALSE,1
-Steel Shield,FALSE,FALSE,1
-Tower Shield,FALSE,FALSE,1
+NAME:,DLC:,COVENANT:
+Dagger,FALSE,FALSE
+Parrying Dagger,FALSE,FALSE
+Secret Dagger,FALSE,FALSE
+Baby's Nail,FALSE,FALSE
+Blueblood Sword,FALSE,FALSE
+Broad Sword,FALSE,FALSE
+Broken Sword,FALSE,FALSE
+Long Sword,FALSE,FALSE
+Knight Sword,FALSE,FALSE
+Kris Blade,FALSE,FALSE
+Penetrating Sword,FALSE,FALSE
+Rune Sword,FALSE,FALSE
+Short Sword,FALSE,FALSE
+Bastard Sword,FALSE,FALSE
+Claymore,FALSE,FALSE
+Demonbrandt,FALSE,FALSE
+Flamberge,FALSE,FALSE
+Large Sword of Moonlight,FALSE,FALSE
+Northen Regalia,FALSE,FALSE
+Morion Blade,FALSE,FALSE
+Soulbrandt,FALSE,FALSE
+Storm Ruler,FALSE,FALSE
+Dragon Bone Smasher,FALSE,FALSE
+Great Sword,FALSE,FALSE
+Blind,FALSE,FALSE
+Falchion,FALSE,FALSE
+Kilij,FALSE,FALSE
+Large Sword of Searching,FALSE,FALSE
+Scimitar,FALSE,FALSE
+Shotel,FALSE,FALSE
+Hiltless,FALSE,FALSE
+Maigc Sword Makoto,FALSE,FALSE
+Uchigatana,FALSE,FALSE
+Epee Rapier,FALSE,FALSE
+Estoc,FALSE,FALSE
+Geri's Stiletto,FALSE,FALSE
+Needle of Eternal Agony,FALSE,FALSE
+Mail Breaker,FALSE,FALSE
+Rapier,FALSE,FALSE
+Spiral Rapier,FALSE,FALSE
+Battle Axe,FALSE,FALSE
+Guilotine Axe,FALSE,FALSE
+Crescent Axe,FALSE,FALSE
+Dozer Axe,FALSE,FALSE
+Great Axe,FALSE,FALSE
+Club,FALSE,FALSE
+Mace,FALSE,FALSE
+Morning Star,FALSE,FALSE
+Pickaxe,FALSE,FALSE
+War Pick,FALSE,FALSE
+Bramd,FALSE,FALSE
+Great Club,FALSE,FALSE
+Meat Cleaver,FALSE,FALSE
+Claws,FALSE,FALSE
+Hands of God,FALSE,FALSE
+Iron Knuckles ,FALSE,FALSE
+Istarelle,FALSE,FALSE
+Scraping Spear,FALSE,FALSE
+Short Spear,FALSE,FALSE
+Winged Spear,FALSE,FALSE
+Halberd,FALSE,FALSE
+Mirdan Hammer,FALSE,FALSE
+Phosphorescent Pole,FALSE,FALSE
+War Scythe,FALSE,FALSE
+Compound Long Bow,FALSE,FALSE
+Compound Short Bow,FALSE,FALSE
+Lava Bow,FALSE,FALSE
+Long Bow,FALSE,FALSE
+Short Bow,FALSE,FALSE
+White Bow,FALSE,FALSE
+Gargoyle Crossbow,FALSE,FALSE
+Heavy Crossbow,FALSE,FALSE
+Light Crossbow,FALSE,FALSE
+Insanity Catalyst,FALSE,FALSE
+Silver Catalyst,FALSE,FALSE
+Wooden Catalyst,FALSE,FALSE
+Talisman of Beats,FALSE,FALSE
+Talisman of God,FALSE,FALSE
+Buckler,FALSE,FALSE
+Leather Shield,FALSE,FALSE
+Rune Shield,FALSE,FALSE
+Dregling Shield,FALSE,FALSE
+Soldier's Shield,FALSE,FALSE
+Wooden Shield,FALSE,FALSE
+Dark Silver Shield,FALSE,FALSE
+Heater Shield,FALSE,FALSE
+Kite Shield,FALSE,FALSE
+Knight's Shield,FALSE,FALSE
+Spiked Shield,FALSE,FALSE
+Hoplite Shield,FALSE,FALSE
+Adjudicator's Shield,FALSE,FALSE
+Large Brushwood Shield,FALSE,FALSE
+Purple Flame Shield,FALSE,FALSE
+Steel Shield,FALSE,FALSE
+Tower Shield,FALSE,FALSE
