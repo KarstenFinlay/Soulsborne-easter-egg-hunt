@@ -1,13 +1,13 @@
-NAME,DLC,COVENANT,ONLINE,DIFFICULTY,LOCATION
-Accursed Brew,TRUE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Accursed+Brew
-Beast Roar,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Beast+Roar
-Blacksky Eye,TRUE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Blacksky+Eye
-Empty Phantasm Shell,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Empty+Phantasm+Shell
-Executioner's Gloves,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Executioner%27s+Gloves
-Old Hunter Bone,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Old+Hunter+Bone
-Tiny Tonitrus,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Tiny+Tonitrus
-Choir Bell,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Choir+Bell
-Augur of Ebrietas,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Augur+of+Ebrietas
-Madras Whistle,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Madaras+Whistle
-Messenger's Gift,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Messenger%27s+Gift
-A Call Beyond,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/A+Call+Beyond
+NAME,DLC,COVENANT,DIFFICULTY
+Accursed Brew,TRUE,FALSE,1
+Beast Roar,FALSE,FALSE,1
+Blacksky Eye,TRUE,FALSE,1
+Empty Phantasm Shell,FALSE,FALSE,1
+Executioner's Gloves,FALSE,FALSE,1
+Old Hunter Bone,FALSE,FALSE,1
+Tiny Tonitrus,FALSE,FALSE,1
+Choir Bell,FALSE,FALSE,1
+Augur of Ebrietas,FALSE,FALSE,1
+Madras Whistle,FALSE,FALSE,1
+Messenger's Gift,FALSE,FALSE,1
+A Call Beyond,FALSE,FALSE,1

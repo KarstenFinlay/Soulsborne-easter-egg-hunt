@@ -1,43 +1,43 @@
-NAME,DLC,COVENANT,ONLINE,DIFFICULTY,LOCATION
-Amygdalan Arm,TRUE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Amygdalan+Arm
-Beast Claw,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Beast+Claw
-Beasthunter Saif,TRUE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Beasthunter+Saif
-Beast Cutter,TRUE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Beast+Cutter
-Blade of Mercy,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Blade+of+Mercy
-Bloodletter,TRUE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Bloodletter
-Boom Hammer,TRUE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Boom+Hammer
-Burial Blade,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Burial+Blade
-Chikage,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Chikage
-Church Pick,TRUE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Church+Pick
-Holy Moonlight Sword,TRUE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Holy+Moonlight+Sword
-Hunter Axe,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Hunter+Axe
-Kirkhammer,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Kirkhammer
-Kos Parasite,TRUE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Kos+Parasite
-Logarius' Wheel,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Logarius%27+Wheel
-Ludwig's Holy Blade,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Ludwig%27s+Holy+Blade
-Rakuyo,TRUE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Rakuyo
-Reiterpallasch,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Reiterpallasch
-Rifle Spear,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Rifle+Spear
-Saw Cleaver,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Saw+Cleaver
-Saw Spear,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Saw+Spear
-Simon's Bowblade,TRUE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Simon%27s+Bowblade
-Stake Driver,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Stake+Driver
-Threaded Cane,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Threaded+Cane
-Tonitrus,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Tonitrus
-Whirligig Saw,TRUE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Whirligig+Saw
-Cannon,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Cannon
-Church Cannon,TRUE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Church+Cannon
-Evelyn,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Evelyn
-Fist of Gratia,TRUE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Fist+of+Gratia
-Flamesprayer,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Flamesprayer
-Gatling Gun,TRUE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Gatling+Gun
-Hunger Blunderbuss,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Hunter+Blunderbuss
-Hunter Pistol,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Hunter+Pistol
-Hunter's Torch,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Hunter%27s+Torch
-Loch Shield,TRUE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Loch+Shield
-Ludwig's Rifle,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Ludwig%27s+Rifle
-Piercing Rifle,TRUE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Piercing+Rifle
-Repeating Pistol,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Repeating+Pistol
-Rosmarinus,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Rosmarinus
-Torch,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Torch
-Wooden Shield,FALSE,FALSE,FALSE,1,https://bloodborne.wiki.fextralife.com/Wooden+Shield
+NAME,DLC,COVENANT,DIFFICULTY
+Amygdalan Arm,TRUE,FALSE,1
+Beast Claw,FALSE,FALSE,1
+Beasthunter Saif,TRUE,FALSE,1
+Beast Cutter,TRUE,FALSE,1
+Blade of Mercy,FALSE,FALSE,1
+Bloodletter,TRUE,FALSE,1
+Boom Hammer,TRUE,FALSE,1
+Burial Blade,FALSE,FALSE,1
+Chikage,FALSE,FALSE,1
+Church Pick,TRUE,FALSE,1
+Holy Moonlight Sword,TRUE,FALSE,1
+Hunter Axe,FALSE,FALSE,1
+Kirkhammer,FALSE,FALSE,1
+Kos Parasite,TRUE,FALSE,1
+Logarius' Wheel,FALSE,FALSE,1
+Ludwig's Holy Blade,FALSE,FALSE,1
+Rakuyo,TRUE,FALSE,1
+Reiterpallasch,FALSE,FALSE,1
+Rifle Spear,FALSE,FALSE,1
+Saw Cleaver,FALSE,FALSE,1
+Saw Spear,FALSE,FALSE,1
+Simon's Bowblade,TRUE,FALSE,1
+Stake Driver,FALSE,FALSE,1
+Threaded Cane,FALSE,FALSE,1
+Tonitrus,FALSE,FALSE,1
+Whirligig Saw,TRUE,FALSE,1
+Cannon,FALSE,FALSE,1
+Church Cannon,TRUE,FALSE,1
+Evelyn,FALSE,FALSE,1
+Fist of Gratia,TRUE,FALSE,1
+Flamesprayer,FALSE,FALSE,1
+Gatling Gun,TRUE,FALSE,1
+Hunger Blunderbuss,FALSE,FALSE,1
+Hunter Pistol,FALSE,FALSE,1
+Hunter's Torch,FALSE,FALSE,1
+Loch Shield,TRUE,FALSE,1
+Ludwig's Rifle,FALSE,FALSE,1
+Piercing Rifle,TRUE,FALSE,1
+Repeating Pistol,FALSE,FALSE,1
+Rosmarinus,FALSE,FALSE,1
+Torch,FALSE,FALSE,1
+Wooden Shield,FALSE,FALSE,1
