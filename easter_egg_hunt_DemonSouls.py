@@ -8,26 +8,35 @@ weapons = './data/DemonSouls/weapons.csv'
 
 files = []
 
-answer_to_armour = input("Would you like armour? Y/N\n").capitalize()
-answer_to_key_items = input("Would you like key items? Y/N\n").capitalize()
-answer_to_rings = input("Would you like rings? Y/N\n").capitalize()
-answer_to_spells = input("Would you like spells? Y/N\n").capitalize()
-answer_to_weapons = input("Would you like weapons? Y/N\n").capitalize()
+answer_to_all_items = input("Would you like every item to be included? Y/N\n").capitalize()
 
-if answer_to_armour == "Y":
+if answer_to_all_items == "Y":
     files.append(armour)
-
-if answer_to_key_items == "Y":
     files.append(key_items)
-
-if answer_to_rings == "Y":
     files.append(rings)
-
-if answer_to_spells == "Y":
     files.append(spells)
-
-if answer_to_weapons == "Y":
     files.append(weapons)
+else:
+    answer_to_armour = input("Would you like armour? Y/N\n").capitalize()
+    answer_to_key_items = input("Would you like key items? Y/N\n").capitalize()
+    answer_to_rings = input("Would you like rings? Y/N\n").capitalize()
+    answer_to_spells = input("Would you like spells? Y/N\n").capitalize()
+    answer_to_weapons = input("Would you like weapons? Y/N\n").capitalize()
+
+    if answer_to_armour == "Y":
+        files.append(armour)
+
+    if answer_to_key_items == "Y":
+        files.append(key_items)
+
+    if answer_to_rings == "Y":
+        files.append(rings)
+
+    if answer_to_spells == "Y":
+        files.append(spells)
+
+    if answer_to_weapons == "Y":
+        files.append(weapons)
 
 if not files:
     print("No options selected")
