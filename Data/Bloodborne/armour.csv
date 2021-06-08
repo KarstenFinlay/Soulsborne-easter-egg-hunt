@@ -1,125 +1,125 @@
 NAME,DLC,COVENANT
-Grey Wolf Cap,FALSE,FALSE
-Ashen Hunter Garb,FALSE,FALSE
-Ashen Hunter Gloves,FALSE,FALSE
-Ashen Hunter Trousers,FALSE,FALSE
-Black Church Hat,FALSE,FALSE
-Black Church Garb,FALSE,FALSE
-Surgical Long Gloves,FALSE,FALSE
-Black Church Trousers/Dress,FALSE,FALSE
-Cainhurst Helmet,FALSE,TRUE
-Cainhurst Armor,FALSE,TRUE
-Cainhurst Gauntlets,FALSE,TRUE
-Cainhurst Leggings,FALSE,TRUE
-Charred Hunter Garb,FALSE,FALSE
-Charred Hunter Gloves,FALSE,FALSE
-Charred Hunter Trousers,FALSE,FALSE
-Blindfold Cap,FALSE,FALSE
-Choir Garb,FALSE,FALSE
-Choir Gloves,FALSE,FALSE
-Choir Trousers,FALSE,FALSE
-Beak Mask,FALSE,FALSE
-Crowfeather Garb,FALSE,FALSE
-Crowfeather Manchettes,FALSE,FALSE
-Crowfeather Trousers,FALSE,FALSE
-Gold Ardeo,FALSE,FALSE
-Executioner Garb,FALSE,FALSE
-Executioner Gauntlets,FALSE,FALSE
-Executioner Trousers,FALSE,FALSE
-Black Hood,FALSE,FALSE
-Foreign Garb,FALSE,FALSE
-Sullied Bandage,FALSE,FALSE
-Foreign Trousers,FALSE,FALSE
-Gascoigne's Cap,FALSE,FALSE
-Gascoigne's Garb,FALSE,FALSE
-Gascoigne's Gloves,FALSE,FALSE
-Gascoigne's Trousers,FALSE,FALSE
-Graveguard Mask,FALSE,FALSE
-Graveguard Robe,FALSE,FALSE
-Graveguard Manchettes,FALSE,FALSE
-Graveguard Kilt,FALSE,FALSE
-Hunter Hat (A),FALSE,FALSE
-Hunter Garb (A),FALSE,FALSE
-Hunter Hat (B),FALSE,FALSE
-Hunter Garb (B),FALSE,FALSE
-Hunter Gloves,FALSE,FALSE
-Hunter Trousers,FALSE,FALSE
-Knight's Wig,FALSE,FALSE
-Knight's Garb,FALSE,FALSE
-Knight's Gloves,FALSE,FALSE
-Knight's Trousers/Dress,FALSE,FALSE
-Student Uniform (A),FALSE,FALSE
-Student Uniform (B),FALSE,FALSE
-Student Trousers,FALSE,FALSE
-Tomb Prospector Hood,FALSE,FALSE
-Tomb Prospector Garb,FALSE,FALSE
-Tomb Prospector Gloves,FALSE,FALSE
-Tomb Prospector Trousers,FALSE,FALSE
-White Church Hat,FALSE,FALSE
-White Church Garb,FALSE,FALSE
-White Church Trousers/Dress,FALSE,FALSE
-Yharnum Hunter Cap,FALSE,FALSE
-Yharnam Hunter Garb,FALSE,FALSE
-Yharnam Hunter Gloves,FALSE,FALSE
-Yharnam Hunter Trousers,FALSE,FALSE
-Black Hooded Iron Helm,FALSE,FALSE
-Iron Yahar'gul Helm,FALSE,FALSE
-Yahar'gul Black Garb,FALSE,FALSE
-Yahar'gul Black Gloves,FALSE,FALSE
-Yahar'gul Black Trousers,FALSE,FALSE
-Bone Ash Mask,FALSE,FALSE
-Bone Ash Armor,FALSE,FALSE
-Bone Ash Gauntlets,FALSE,FALSE
-Bone Ash Leggings,FALSE,FALSE
-Gehrman's Hunter Cap,FALSE,FALSE
-Gehrman's Hunter Garb,FALSE,FALSE
-Gehrman's Hunter Trousers,FALSE,FALSE
-Doll Hat,FALSE,FALSE
-Doll Clothes,FALSE,FALSE
-Doll Gloves,FALSE,FALSE
-Doll Skirt,FALSE,FALSE
-Madman Hood,FALSE,FALSE
-Madman Garb,FALSE,FALSE
-Madman Manchettes,FALSE,FALSE
-Madman Leggings,FALSE,FALSE
-Henryk's Hunter Cap,FALSE,FALSE
-Henryk's Hunter Garb,FALSE,FALSE
-Henryk's Hunter Gloves,FALSE,FALSE
-Henryk's Hunter Trousers,FALSE,FALSE
-Arianna's Shoes,FALSE,FALSE
-Crown of Illusions,FALSE,FALSE
-Mensis Cage,FALSE,FALSE
-Noble Dress,FALSE,FALSE
-Rumpled Yharnam Hat,FALSE,FALSE
-Sweaty Clothes,FALSE,FALSE
-Butcher Mask,TRUE,FALSE
-Butcher Garb,TRUE,FALSE
-Butcher Gloves,TRUE,FALSE
-Butcher Trousers,TRUE,FALSE
-Brador's Testimony,TRUE,FALSE
-Beast Hide Garb,TRUE,FALSE
-Bloodied Arm Bands,TRUE,FALSE
-Bloodied Trousers,TRUE,FALSE
-Master's Iron Helm,TRUE,FALSE
-Constable's Garb,TRUE,FALSE
-Constable Gloves,TRUE,FALSE
-Constable Trousers,TRUE,FALSE
-Decorative Old Hunter Garb,TRUE,FALSE
-Decorative Old Hunter Trousers,TRUE,FALSE
-Enlarded Head,TRUE,FALSE
-Harrowed Hood,TRUE,FALSE
-Harrowed Garb,TRUE,FALSE
-Harrowed Gloves,TRUE,FALSE
-Harrowed Trousers,TRUE,FALSE
-Maria Hunter Cap,TRUE,FALSE
-Maria Hunter Garb,TRUE,FALSE
-Maria Hunter Gloves,TRUE,FALSE
-Maria Hunter Trousers,TRUE,FALSE
-Old Hunter Cap,TRUE,FALSE
-Old Hunter Top Hat,TRUE,FALSE
-Old Hunter Garb,TRUE,FALSE
-Old Hunter Trousers,TRUE,FALSE
-Yamamura Hunter Hat,TRUE,FALSE
-Khaki Haori,TRUE,FALSE
-Old Hunter Arm Bands,TRUE,FALSE
-Wine Hakama,TRUE,FALSE
+Grey Wolf Cap,0,0
+Ashen Hunter Garb,0,0
+Ashen Hunter Gloves,0,0
+Ashen Hunter Trousers,0,0
+Black Church Hat,0,0
+Black Church Garb,0,0
+Surgical Long Gloves,0,0
+Black Church Trousers/Dress,0,0
+Cainhurst Helmet,0,1
+Cainhurst Armor,0,1
+Cainhurst Gauntlets,0,1
+Cainhurst Leggings,0,1
+Charred Hunter Garb,0,0
+Charred Hunter Gloves,0,0
+Charred Hunter Trousers,0,0
+Blindfold Cap,0,0
+Choir Garb,0,0
+Choir Gloves,0,0
+Choir Trousers,0,0
+Beak Mask,0,0
+Crowfeather Garb,0,0
+Crowfeather Manchettes,0,0
+Crowfeather Trousers,0,0
+Gold Ardeo,0,0
+Executioner Garb,0,0
+Executioner Gauntlets,0,0
+Executioner Trousers,0,0
+Black Hood,0,0
+Foreign Garb,0,0
+Sullied Bandage,0,0
+Foreign Trousers,0,0
+Gascoigne's Cap,0,0
+Gascoigne's Garb,0,0
+Gascoigne's Gloves,0,0
+Gascoigne's Trousers,0,0
+Graveguard Mask,0,0
+Graveguard Robe,0,0
+Graveguard Manchettes,0,0
+Graveguard Kilt,0,0
+Hunter Hat (A),0,0
+Hunter Garb (A),0,0
+Hunter Hat (B),0,0
+Hunter Garb (B),0,0
+Hunter Gloves,0,0
+Hunter Trousers,0,0
+Knight's Wig,0,0
+Knight's Garb,0,0
+Knight's Gloves,0,0
+Knight's Trousers/Dress,0,0
+Student Uniform (A),0,0
+Student Uniform (B),0,0
+Student Trousers,0,0
+Tomb Prospector Hood,0,0
+Tomb Prospector Garb,0,0
+Tomb Prospector Gloves,0,0
+Tomb Prospector Trousers,0,0
+White Church Hat,0,0
+White Church Garb,0,0
+White Church Trousers/Dress,0,0
+Yharnum Hunter Cap,0,0
+Yharnam Hunter Garb,0,0
+Yharnam Hunter Gloves,0,0
+Yharnam Hunter Trousers,0,0
+Black Hooded Iron Helm,0,0
+Iron Yahar'gul Helm,0,0
+Yahar'gul Black Garb,0,0
+Yahar'gul Black Gloves,0,0
+Yahar'gul Black Trousers,0,0
+Bone Ash Mask,0,0
+Bone Ash Armor,0,0
+Bone Ash Gauntlets,0,0
+Bone Ash Leggings,0,0
+Gehrman's Hunter Cap,0,0
+Gehrman's Hunter Garb,0,0
+Gehrman's Hunter Trousers,0,0
+Doll Hat,0,0
+Doll Clothes,0,0
+Doll Gloves,0,0
+Doll Skirt,0,0
+Madman Hood,0,0
+Madman Garb,0,0
+Madman Manchettes,0,0
+Madman Leggings,0,0
+Henryk's Hunter Cap,0,0
+Henryk's Hunter Garb,0,0
+Henryk's Hunter Gloves,0,0
+Henryk's Hunter Trousers,0,0
+Arianna's Shoes,0,0
+Crown of Illusions,0,0
+Mensis Cage,0,0
+Noble Dress,0,0
+Rumpled Yharnam Hat,0,0
+Sweaty Clothes,0,0
+Butcher Mask,1,0
+Butcher Garb,1,0
+Butcher Gloves,1,0
+Butcher Trousers,1,0
+Brador's Testimony,1,0
+Beast Hide Garb,1,0
+Bloodied Arm Bands,1,0
+Bloodied Trousers,1,0
+Master's Iron Helm,1,0
+Constable's Garb,1,0
+Constable Gloves,1,0
+Constable Trousers,1,0
+Decorative Old Hunter Garb,1,0
+Decorative Old Hunter Trousers,1,0
+Enlarded Head,1,0
+Harrowed Hood,1,0
+Harrowed Garb,1,0
+Harrowed Gloves,1,0
+Harrowed Trousers,1,0
+Maria Hunter Cap,1,0
+Maria Hunter Garb,1,0
+Maria Hunter Gloves,1,0
+Maria Hunter Trousers,1,0
+Old Hunter Cap,1,0
+Old Hunter Top Hat,1,0
+Old Hunter Garb,1,0
+Old Hunter Trousers,1,0
+Yamamura Hunter Hat,1,0
+Khaki Haori,1,0
+Old Hunter Arm Bands,1,0
+Wine Hakama,1,0

@@ -1,74 +1,74 @@
 NAME,DLC,COVENANT
-Anti-Clockwise Metamorphosis (1),FALSE,FALSE
-Anti-Clockwise Metamorphosis (2),FALSE,FALSE
-Anti-Clockwise Metamorphosis (3),FALSE,FALSE
-Arcane Lake (1),FALSE,FALSE
-Arcane Lake (2),FALSE,FALSE
-Arcane Lake (3),FALSE,FALSE
-Beast (1),FALSE,FALSE
-Beast (2),FALSE,FALSE
-Beast (3),FALSE,FALSE
-Beast's Embrace,TRUE,FALSE
-Blood Rapture (1),FALSE,FALSE
-Blood Rapture (2),FALSE,FALSE
-Blood Rapture (3),FALSE,FALSE
-Clawmark (1),FALSE,FALSE
-Clawmark (2),FALSE,FALSE
-Clawmark (3),FALSE,FALSE
-Clear Deep Sea (1),FALSE,FALSE
-Clear Deep Sea (2),FALSE,FALSE
-Clear Deep Sea (3),FALSE,FALSE
-Clockwise Metamorphosis (1),FALSE,FALSE
-Clockwise Metamorphosis (2),FALSE,FALSE
-Clockwise Metamorphosis (3),FALSE,FALSE
-Communion (1),FALSE,FALSE
-Communion (2),FALSE,FALSE
-Communion (3),FALSE,FALSE
-Communion (4),FALSE,FALSE
-Communion (5),FALSE,FALSE
-Corruption,FALSE,TRUE
-Deep Sea (1),FALSE,FALSE
-Deep Sea (2),FALSE,FALSE
-Deep Sea (3),FALSE,FALSE
-Dissipating Lake (1),FALSE,FALSE
-Dissipating Lake (2),FALSE,FALSE
-Dissipating Lake (3),FALSE,FALSE
-Eye (1),FALSE,FALSE
-Eye (2),FALSE,FALSE
-Eye (3),FALSE,FALSE
-Fading Lake (1),FALSE,FALSE
-Fading Lake (2),FALSE,FALSE
-Fading Lake (3),FALSE,FALSE
-Formless Oedon (1),FALSE,FALSE
-Formless Oedon (2),FALSE,FALSE
-Formless Oedon (3),FALSE,FALSE
-Formless Oedon (4),FALSE,FALSE
-Formless Oedon (5),FALSE,FALSE
-Great Deep Sea (1),FALSE,FALSE
-Great Deep Sea (2),FALSE,FALSE
-Great Deep Sea (3),FALSE,FALSE
-Great Lake (1),FALSE,FALSE
-Great Lake (2),FALSE,FALSE
-Great Lake (3),FALSE,FALSE
-Guidance (1),TRUE,FALSE
-Guidance (2),TRUE,FALSE
-Guidance (3),TRUE,FALSE
-Heir (1),FALSE,FALSE
-Heir (2),FALSE,FALSE
-Heir (3),FALSE,FALSE
-Hunter,FALSE,TRUE
-Impurity,TRUE,TRUE
-Lake (1),FALSE,FALSE
-Lake (2),FALSE,FALSE
-Lake (3),FALSE,FALSE
-Milkweed,TRUE,FALSE
-Moon (1),FALSE,FALSE
-Moon (2),FALSE,FALSE
-Moon (3),FALSE,FALSE
-Oedon Writhe (1),FALSE,FALSE
-Oedon Writhe (2),FALSE,FALSE
-Oedon Writhe (3),FALSE,FALSE
-Radiance,FALSE,FALSE
-Stunning Deep Sea (1),FALSE,FALSE
-Stunning Deep Sea (2),FALSE,FALSE
-Stunning Deep Sea (3),FALSE,FALSE
+Anti-Clockwise Metamorphosis (1),0,0
+Anti-Clockwise Metamorphosis (2),0,0
+Anti-Clockwise Metamorphosis (3),0,0
+Arcane Lake (1),0,0
+Arcane Lake (2),0,0
+Arcane Lake (3),0,0
+Beast (1),0,0
+Beast (2),0,0
+Beast (3),0,0
+Beast's Embrace,1,0
+Blood Rapture (1),0,0
+Blood Rapture (2),0,0
+Blood Rapture (3),0,0
+Clawmark (1),0,0
+Clawmark (2),0,0
+Clawmark (3),0,0
+Clear Deep Sea (1),0,0
+Clear Deep Sea (2),0,0
+Clear Deep Sea (3),0,0
+Clockwise Metamorphosis (1),0,0
+Clockwise Metamorphosis (2),0,0
+Clockwise Metamorphosis (3),0,0
+Communion (1),0,0
+Communion (2),0,0
+Communion (3),0,0
+Communion (4),0,0
+Communion (5),0,0
+Corruption,0,1
+Deep Sea (1),0,0
+Deep Sea (2),0,0
+Deep Sea (3),0,0
+Dissipating Lake (1),0,0
+Dissipating Lake (2),0,0
+Dissipating Lake (3),0,0
+Eye (1),0,0
+Eye (2),0,0
+Eye (3),0,0
+Fading Lake (1),0,0
+Fading Lake (2),0,0
+Fading Lake (3),0,0
+Formless Oedon (1),0,0
+Formless Oedon (2),0,0
+Formless Oedon (3),0,0
+Formless Oedon (4),0,0
+Formless Oedon (5),0,0
+Great Deep Sea (1),0,0
+Great Deep Sea (2),0,0
+Great Deep Sea (3),0,0
+Great Lake (1),0,0
+Great Lake (2),0,0
+Great Lake (3),0,0
+Guidance (1),1,0
+Guidance (2),1,0
+Guidance (3),1,0
+Heir (1),0,0
+Heir (2),0,0
+Heir (3),0,0
+Hunter,0,1
+Impurity,1,1
+Lake (1),0,0
+Lake (2),0,0
+Lake (3),0,0
+Milkweed,1,0
+Moon (1),0,0
+Moon (2),0,0
+Moon (3),0,0
+Oedon Writhe (1),0,0
+Oedon Writhe (2),0,0
+Oedon Writhe (3),0,0
+Radiance,0,0
+Stunning Deep Sea (1),0,0
+Stunning Deep Sea (2),0,0
+Stunning Deep Sea (3),0,0
