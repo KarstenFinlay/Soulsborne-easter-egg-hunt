@@ -45,6 +45,6 @@ else:
 
     all_items.to_csv("all_items.csv", index=False, encoding='utf-8-sig')
 
-    data = pd.read_csv("all_items.csv")
+    data = pd.read_csv("all_items.csv", index_col="NAME")
 
-    print(data['NAME'].sample(n=10).to_string())
+    print(data.sample(n=10).to_string())
