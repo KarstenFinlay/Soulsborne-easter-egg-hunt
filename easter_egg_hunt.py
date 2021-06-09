@@ -32,6 +32,17 @@ files = []
 
 answer_to_all_items = input("Would you like every item to be included? Y/N\n").capitalize()
 
+if game == "DemonSouls":
+    answer_to_DLC = "Y"
+else:
+    answer_to_DLC = input("Would you like DLC items to be included? Y/N\n").capitalize()
+
+if game == "DemonSouls" or game == "Sekiro":
+    answer_to_covenant = "Y"
+else:
+    answer_to_covenant = input("Would you like covenant items to be included? Y/N\n").capitalize()
+
+
 if answer_to_all_items == "Y":
     files.append(key_items)
     
@@ -66,6 +77,18 @@ else:
         answer_to_chalices = input("Would you like chalices? Y/N\n").capitalize()
         answer_to_hunter_tools = input("Would you like hunter_tools? Y/N\n").capitalize()
         answer_to_runes = input("Would you like runes? Y/N\n").capitalize()
+
+        if answer_to_blood_gems == "Y":
+            files.append(blood_gems)
+
+        if answer_to_chalices == "Y":
+            files.append(chalices)
+
+        if answer_to_hunter_tools == "Y":
+            files.append(hunter_tools)
+
+        if answer_to_runes == "Y":
+            files.append(runes)
     
     if answer_to_key_items == "Y":
         files.append(key_items)
@@ -82,18 +105,6 @@ else:
     if answer_to_spells == "Y":
         files.append(spells)
 
-    if answer_to_blood_gems == "Y":
-        files.append(blood_gems)
-
-    if answer_to_chalices == "Y":
-        files.append(chalices)
-
-    if answer_to_hunter_tools == "Y":
-        files.append(hunter_tools)
-
-    if answer_to_runes == "Y":
-        files.append(runes)
-
 
 if not files:
     print("No options selected")
@@ -103,5 +114,11 @@ else:
     all_items.to_csv("all_items.csv", index=False, encoding='utf-8-sig')
 
     data = pd.read_csv("all_items.csv", index_col="NAME")
+
+    if answer_to_DLC == "N":
+        data = data[data.DLC != 1]
+
+    if answer_to_covenant == "N":
+        data = data[data.COVENANT != 1]
 
     print(data.sample(n=10).to_string())
