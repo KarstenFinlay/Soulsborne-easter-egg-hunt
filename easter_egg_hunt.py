@@ -1,124 +1,84 @@
+import datetime
 import pandas as pd
-import sys
 
-game_choice = input("Please select which game you wish to have an easter egg hunt in:\n1. Demon Souls\n2. Dark Souls\n3. Dark Souls 2\n4. Bloodborne\n5. Dark Souls 3\n6. Sekiro\n")
+from os import listdir
+from os import mkdir
+from pathlib import Path
 
-if game_choice == "1":
-    game = "DemonSouls"
-elif game_choice == "2":
-    game = "DarkSouls"
-elif game_choice == "3":
-    game = "DarkSouls2"
-elif game_choice == "4":
-    game = "Bloodborne"
-elif game_choice == "5":
-    game = "DarkSouls3"
-elif game_choice == "6":
-    game = "Sekiro"
-else:
-    sys.exit("No option selected")
+def question_yes_no(question):
+    answer = input(question).capitalize()
+    while True:
+        if answer != "Y" and answer != "N":
+            answer = input("Please input Y or N\n")
+            continue
 
-armour = f'./data/{game}/armour.csv'
-blood_gems = './data/Bloodborne/blood_gems.csv'
-chalices = './data/Bloodborne/chalices.csv'
-hunter_tools = './data/Bloodborne/hunter_tools.csv'
-key_items = f'./data/{game}/key_items.csv'
-rings = f'./data/{game}/rings.csv'
-runes = './data/Bloodborne/runes.csv'
-spells = f'./data/{game}/spells.csv'
-weapons = f'./data/{game}/weapons.csv'
+        return answer == "Y"
 
-files = []
+def question_number(question):
+    answer = input(question)
+    while True:
+        try:
+            return int(answer)
+        except ValueError:
+            answer = input("Your answer must be an integer:\n")
 
-answer_to_all_items = input("Would you like every item to be included? Y/N\n").capitalize()
+game_choices = ["DemonSouls", "DarkSouls", "DarkSouls2", "Bloodborne", "DarkSouls3", "Sekiro"]
 
-if game == "DemonSouls":
-    answer_to_DLC = "Y"
-else:
-    answer_to_DLC = input("Would you like DLC items to be included? Y/N\n").capitalize()
+while True:
+    try:
+        game_choice_index = question_number("Please select which game you wish to have an easter egg hunt in:\n1. Demon Souls\n2. Dark Souls\n3. Dark Souls 2\n4. Bloodborne\n5. Dark Souls 3\n6. Sekiro\n") - 1
 
-if game == "DemonSouls" or game == "Sekiro":
-    answer_to_covenant = "Y"
-else:
-    answer_to_covenant = input("Would you like covenant items to be included? Y/N\n").capitalize()
+        if game_choice_index < 0:
+            game_choice = input("Options must be an integer of one or higher:\n")
+            continue
 
+        game = game_choices[game_choice_index]
+        break
+    except IndexError:
+        game_choice = input("Please select one of the valid options:\n")
 
-if answer_to_all_items == "Y":
-    files.append(key_items)
-    
-    if game != "Sekiro":
-        files.append(armour)
-        files.append(weapons)
+game_files = listdir(f"./data/{game}")
 
-    if game != "Bloodborne" and game != "Sekiro":
-        files.append(rings)
-        files.append(spells)
+all_items_answer = question_yes_no("Would you like every item type to be included? Y/N\n")
 
-    if game == "Bloodborne":
-        files.append(blood_gems)
-        files.append(chalices)
-        files.append(hunter_tools)
-        files.append(runes)
-else:
-    answer_to_key_items = input("Would you like key items? Y/N\n").capitalize()
+easter_egg_items = pd.DataFrame()
 
-    if game != "Sekiro":
-        answer_to_armour = input("Would you like armour? Y/N\n").capitalize()
-        answer_to_weapons = input("Would you like weapons? Y/N\n").capitalize()
+for file in game_files:
+    if not all_items_answer and not question_yes_no(f"Would you like {file} to be included? Y/N\n"):
+        continue
 
-    if game != "Bloodborne" and game != "Sekiro":
-        answer_to_rings = input("Would you like rings? Y/N\n").capitalize()
-        answer_to_spells = input("Would you like spells? Y/N\n").capitalize()
+    data = pd.read_csv(f"./data/{game}/{file}")
 
-    if game == "Bloodborne":
-        answer_to_rings = "N"
-        answer_to_spells = "N"
-        answer_to_blood_gems = input("Would you like blood gems? Y/N\n").capitalize()
-        answer_to_chalices = input("Would you like chalices? Y/N\n").capitalize()
-        answer_to_hunter_tools = input("Would you like hunter_tools? Y/N\n").capitalize()
-        answer_to_runes = input("Would you like runes? Y/N\n").capitalize()
+    for column in data.columns:
+        if column == "NAME":
+            continue
 
-        if answer_to_blood_gems == "Y":
-            files.append(blood_gems)
+        if question_yes_no(f"Would you like {column} items to be included? Y/N\n"):
+            continue
+        
+        data = data[data[column] != 1]
 
-        if answer_to_chalices == "Y":
-            files.append(chalices)
+    max_items = len(data.index)
 
-        if answer_to_hunter_tools == "Y":
-            files.append(hunter_tools)
+    while True:
+        quantity = question_number(f"How many items from {file} would you like to hunt? (0 - {max_items})\n")
+        
+        if quantity > max_items:
+            print(f"Quantity selected is greater than number of available items within {file} ({max_items})")
+            continue
 
-        if answer_to_runes == "Y":
-            files.append(runes)
-    
-    if answer_to_key_items == "Y":
-        files.append(key_items)
+        if quantity >= 0:
+            break
 
-    if answer_to_armour == "Y":
-        files.append(armour)
+        print("Selected quantity must be positive.")
 
-    if answer_to_weapons == "Y":
-        files.append(weapons)
+    easter_egg_items = easter_egg_items.append(data.sample(n=quantity))
 
-    if answer_to_rings == "Y":
-        files.append(rings)
+print(easter_egg_items.to_string())
 
-    if answer_to_spells == "Y":
-        files.append(spells)
+if not Path("./results").is_dir():
+    mkdir("./results")
 
+file_date = datetime.datetime.now().strftime("%d%m%Y_%H%M%S")
 
-if not files:
-    print("No options selected")
-else:
-    all_items = pd.concat([pd.read_csv(f) for f in files])
-
-    all_items.to_csv("all_items.csv", index=False, encoding='utf-8-sig')
-
-    data = pd.read_csv("all_items.csv", index_col="NAME")
-
-    if answer_to_DLC == "N":
-        data = data[data.DLC != 1]
-
-    if answer_to_covenant == "N":
-        data = data[data.COVENANT != 1]
-
-    print(data.sample(n=10).to_string())
+easter_egg_items.to_csv(f"results/{game}_{file_date}.csv", index=False)
