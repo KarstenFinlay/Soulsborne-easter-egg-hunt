@@ -1,44 +1,44 @@
 NAME,DLC,COVENANT
-Astral Clocktower Key,TRUE,FALSE
-Balcony Key,TRUE,FALSE
-Cainhurst Summons,FALSE,FALSE
-Celestial Dial,TRUE,FALSE
-Eye Pendant,TRUE,FALSE
-Hunter Chief Emblem,FALSE,FALSE
-Iron Door Key,FALSE,FALSE
-Laurence's Skull,TRUE,FALSE
-Lecture Theatre Key,FALSE,FALSE
-Lunarium Key,FALSE,FALSE
-Oedon Tomb Key,FALSE,FALSE
-Old Hunter Bell,FALSE,FALSE
-Orphanage Key,FALSE,FALSE
-Queenly Flesh,FALSE,FALSE
-Small Hair Ornament,FALSE,FALSE
-Tonsil Stone,FALSE,FALSE
-Underground Cell Key,TRUE,FALSE
-Underground Cell Inner Chamber Key,TRUE,FALSE
-Unopened Summons,FALSE,FALSE
-Upper Cathedral Key,FALSE,FALSE
-Yharnam Stone,FALSE,FALSE
-Ring of Betrothal,FALSE,FALSE
-Blood Gem Workshop Tool,FALSE,FALSE
-Monocular,FALSE,FALSE
-Rune Workshop Tool,FALSE,FALSE
-Workshop Haze Extractor,FALSE,FALSE
-Cainhurst Badge,FALSE,TRUE
-Cosmic Eye Watcher Badge,FALSE,FALSE
-Crow Hunter Badge,FALSE,FALSE
-Firing Hammer Badge,TRUE,FALSE
-Old Hunter Badge,FALSE,FALSE
-Powder Keg Hunter Badge,FALSE,FALSE
-Radiant Hunter Badge,FALSE,FALSE
-Saw Hunter Badge,FALSE,FALSE
-Spark Hunter Badge,FALSE,FALSE
-Sword Hunter Badge,FALSE,FALSE
-Wheel Hunter Badge,FALSE,FALSE
-Red Messenger Ribbon,FALSE,FALSE
-White Messenger Ribbon,FALSE,FALSE
-Messenger Urn Festival,FALSE,FALSE
-Black Messenger Hat,FALSE,FALSE
-Messenger Top Hat,FALSE,FALSE
-Bloody Messenger Head Bandage,FALSE,FALSE
+Astral Clocktower Key,1,0
+Balcony Key,1,0
+Cainhurst Summons,0,0
+Celestial Dial,1,0
+Eye Pendant,1,0
+Hunter Chief Emblem,0,0
+Iron Door Key,0,0
+Laurence's Skull,1,0
+Lecture Theatre Key,0,0
+Lunarium Key,0,0
+Oedon Tomb Key,0,0
+Old Hunter Bell,0,0
+Orphanage Key,0,0
+Queenly Flesh,0,0
+Small Hair Ornament,0,0
+Tonsil Stone,0,0
+Underground Cell Key,1,0
+Underground Cell Inner Chamber Key,1,0
+Unopened Summons,0,0
+Upper Cathedral Key,0,0
+Yharnam Stone,0,0
+Ring of Betrothal,0,0
+Blood Gem Workshop Tool,0,0
+Monocular,0,0
+Rune Workshop Tool,0,0
+Workshop Haze Extractor,0,0
+Cainhurst Badge,0,1
+Cosmic Eye Watcher Badge,0,0
+Crow Hunter Badge,0,0
+Firing Hammer Badge,1,0
+Old Hunter Badge,0,0
+Powder Keg Hunter Badge,0,0
+Radiant Hunter Badge,0,0
+Saw Hunter Badge,0,0
+Spark Hunter Badge,0,0
+Sword Hunter Badge,0,0
+Wheel Hunter Badge,0,0
+Red Messenger Ribbon,0,0
+White Messenger Ribbon,0,0
+Messenger Urn Festival,0,0
+Black Messenger Hat,0,0
+Messenger Top Hat,0,0
+Bloody Messenger Head Bandage,0,0

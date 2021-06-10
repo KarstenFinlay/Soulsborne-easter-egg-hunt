@@ -1,43 +1,43 @@
 NAME,DLC,COVENANT
-Amygdalan Arm,TRUE,FALSE
-Beast Claw,FALSE,FALSE
-Beasthunter Saif,TRUE,FALSE
-Beast Cutter,TRUE,FALSE
-Blade of Mercy,FALSE,FALSE
-Bloodletter,TRUE,FALSE
-Boom Hammer,TRUE,FALSE
-Burial Blade,FALSE,FALSE
-Chikage,FALSE,FALSE
-Church Pick,TRUE,FALSE
-Holy Moonlight Sword,TRUE,FALSE
-Hunter Axe,FALSE,FALSE
-Kirkhammer,FALSE,FALSE
-Kos Parasite,TRUE,FALSE
-Logarius' Wheel,FALSE,FALSE
-Ludwig's Holy Blade,FALSE,FALSE
-Rakuyo,TRUE,FALSE
-Reiterpallasch,FALSE,FALSE
-Rifle Spear,FALSE,FALSE
-Saw Cleaver,FALSE,FALSE
-Saw Spear,FALSE,FALSE
-Simon's Bowblade,TRUE,FALSE
-Stake Driver,FALSE,FALSE
-Threaded Cane,FALSE,FALSE
-Tonitrus,FALSE,FALSE
-Whirligig Saw,TRUE,FALSE
-Cannon,FALSE,FALSE
-Church Cannon,TRUE,FALSE
-Evelyn,FALSE,FALSE
-Fist of Gratia,TRUE,FALSE
-Flamesprayer,FALSE,FALSE
-Gatling Gun,TRUE,FALSE
-Hunger Blunderbuss,FALSE,FALSE
-Hunter Pistol,FALSE,FALSE
-Hunter's Torch,FALSE,FALSE
-Loch Shield,TRUE,FALSE
-Ludwig's Rifle,FALSE,FALSE
-Piercing Rifle,TRUE,FALSE
-Repeating Pistol,FALSE,FALSE
-Rosmarinus,FALSE,FALSE
-Torch,FALSE,FALSE
-Wooden Shield,FALSE,FALSE
+Amygdalan Arm,1,0
+Beast Claw,0,0
+Beasthunter Saif,1,0
+Beast Cutter,1,0
+Blade of Mercy,0,0
+Bloodletter,1,0
+Boom Hammer,1,0
+Burial Blade,0,0
+Chikage,0,0
+Church Pick,1,0
+Holy Moonlight Sword,1,0
+Hunter Axe,0,0
+Kirkhammer,0,0
+Kos Parasite,1,0
+Logarius' Wheel,0,0
+Ludwig's Holy Blade,0,0
+Rakuyo,1,0
+Reiterpallasch,0,0
+Rifle Spear,0,0
+Saw Cleaver,0,0
+Saw Spear,0,0
+Simon's Bowblade,1,0
+Stake Driver,0,0
+Threaded Cane,0,0
+Tonitrus,0,0
+Whirligig Saw,1,0
+Cannon,0,0
+Church Cannon,1,0
+Evelyn,0,0
+Fist of Gratia,1,0
+Flamesprayer,0,0
+Gatling Gun,1,0
+Hunger Blunderbuss,0,0
+Hunter Pistol,0,0
+Hunter's Torch,0,0
+Loch Shield,1,0
+Ludwig's Rifle,0,0
+Piercing Rifle,1,0
+Repeating Pistol,0,0
+Rosmarinus,0,0
+Torch,0,0
+Wooden Shield,0,0
