@@ -47,6 +47,15 @@ for file in game_files:
 
     data = pd.read_csv(f"./data/{game}/{file}")
 
+    for column in data.columns:
+        if column == "NAME":
+            continue
+
+        if question_yes_no(f"Would you like {column} items to be included? Y/N\n"):
+            continue
+        
+        data = data[data[column] != 1]
+
     max_items = len(data.index)
 
     while True:
@@ -73,8 +82,8 @@ print(easter_egg_items.to_string())
 
 # 3. Read each file indivdually [X]
 
-# 4. Filter other colums
+# 4. Filter other colums [X]
 
-# 5. Sample selected amount for each file
+# 5. Sample selected amount for each file [X]
 
 # 6. Print out user's easter egg hunt list and write to file
