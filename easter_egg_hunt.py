@@ -37,7 +37,7 @@ while True:
     except IndexError:
         game_choice = input("Please select one of the valid options:\n")
 
-game_files = listdir(f"./data/{game}")
+game_files = listdir(f"./Data/{game}")
 
 all_items_answer = question_yes_no("Would you like every item type to be included? Y/N\n")
 
@@ -47,13 +47,13 @@ for file in game_files:
     if not all_items_answer and not question_yes_no(f"Would you like {file} to be included? Y/N\n"):
         continue
 
-    data = pd.read_csv(f"./data/{game}/{file}")
+    data = pd.read_csv(f"./Data/{game}/{file}")
 
     for column in data.columns:
         if column == "NAME":
             continue
 
-        if question_yes_no(f"Would you like {column} items to be included? Y/N\n"):
+        if question_yes_no(f"Would you like {column} items from {file} to be included? Y/N\n"):
             continue
         
         data = data[data[column] != 1]
