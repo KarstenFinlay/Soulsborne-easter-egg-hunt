@@ -76,9 +76,9 @@ for file in game_files:
 
 print(easter_egg_items.to_string())
 
-if not Path("./results").is_dir():
-    mkdir("./results")
+if not Path("./Results").is_dir():
+    mkdir("./Results")
 
 file_date = datetime.datetime.now().strftime("%d%m%Y_%H%M%S")
 
-easter_egg_items.to_csv(f"results/{game}_{file_date}.csv", index=False)
+easter_egg_items.to_csv(f"Results/{game}_{file_date}.csv", index=False)
