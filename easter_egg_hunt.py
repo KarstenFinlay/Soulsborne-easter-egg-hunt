@@ -72,7 +72,11 @@ for file in game_files:
 
         print("Selected quantity must be positive.")
 
-    easter_egg_items = easter_egg_items.append(data.sample(n=quantity))
+    selected_items = data.sample(n=quantity)
+
+    selected_items["FROM"] = file
+
+    easter_egg_items = easter_egg_items.append(selected_items)
 
 print(easter_egg_items.to_string())
 
